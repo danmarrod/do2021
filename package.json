@@ -14,7 +14,8 @@
     "v8": "^0.1.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node index & npx mocha test"
   },
   "repository": {
     "type": "git",
