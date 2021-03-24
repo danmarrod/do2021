@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "node index & npx mocha test"
+    "test": "npx mocha test"
   },
   "repository": {
     "type": "git",
